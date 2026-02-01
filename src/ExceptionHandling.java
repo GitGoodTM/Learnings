@@ -17,5 +17,14 @@ public class ExceptionHandling {
         }catch (InputMismatchException e){
             System.out.println("Invalid input");
         }
+
+        /*
+        * Going deeper into this subject, there are mainly 3 types of exceptions:
+        * Checked: checked at compile time; IOException, SQLException, FileNotFoundException, InterruptedException
+        * must use "try/catch" or "throws" IOException
+        * Unchecked: Checked at runtime, when something unexpected happens; NullPointerException, IndexOutOfBoundsException, ArithmeticException, InputMismatchException, IllegalArgumentException
+        * Try to fix them instead of handling them.
+        * Errors: JVM-level disasters; OutOfMemoryError, StackOverflowError
+        *  */
     }
 }
