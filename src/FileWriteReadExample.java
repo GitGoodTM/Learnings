@@ -41,7 +41,7 @@ public class FileWriteReadExample {
         }catch (FileNotFoundException e){
             System.out.println("Failed to locate the file");
         }catch (IOException e){
-            System.out.println("Something went wronf=g");
+            System.out.println("Something went wrong");
         }
     }
 }
