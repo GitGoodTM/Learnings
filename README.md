@@ -12,7 +12,7 @@ Bro Code: Java Complete course (12 hours)
 8. printf
 9. string methods
 10. substrings
-11. ternarys
+11. Ternarys
 12. enhanced switches
 13. logical operators
 14. Loops
@@ -22,7 +22,7 @@ Bro Code: Java Complete course (12 hours)
 18. Arrays
 19. Array util search
 20. Varargs
-21. Multi dimentional arrays
+21. Multi dimensional arrays
 22. Constructors and their overloading
 23. Array of objects
 24. Static
