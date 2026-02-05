@@ -41,3 +41,4 @@ Bro Code: Java Complete course (12 hours)
 37. Anonymous Classes
 38. Generic Classes
 39. HashMap
+40. Enums
