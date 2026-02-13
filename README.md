@@ -52,3 +52,8 @@ Telusko: Complete Java, Spring, and Microservices course
 4. Mutable vs Immutable String
 5. StringBuffer and StringBuilder
 6. Static block
+7. Annotations
+8. Functional Interface/Single Abstract Method (SAM)
+9. Marker Interface (No methods)
+10. Serialization/Deserialization
+11. Lambda Expression
