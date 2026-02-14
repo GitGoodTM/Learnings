@@ -8,5 +8,4 @@ public class FunctionalInterfaceDemo{
         };
         fiDemoObj.show(5);
     }
-    
 }

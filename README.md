@@ -57,3 +57,11 @@ Telusko: Complete Java, Spring, and Microservices course
 9. Marker Interface (No methods)
 10. Serialization/Deserialization
 11. Lambda Expression
+12. Exception Hierarchy
+13. Throw keyword
+14. Throws keyword
+15. Ducking the exception
+16. Class.forName("className")
+17. e.printStackTrace();
+
+Currently, I am at 10:03:38
